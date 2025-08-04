@@ -29,7 +29,7 @@ To perform *Exploratory Data Analysis (EDA)* and *Data Cleaning* on the Titanic 
 ## 📊 Key Analysis Performed
 
 - Checked for missing values and handled them appropriately (e.g., imputing Age, Embarked)
-- Dropped irrelevant columns (e.g., Ticket, Cabin)
+- Dropped irrelevant columns (e.g. Cabin)
 - Explored survival rates by *gender, **passenger class, and **family size*
 - Visualized important patterns using bar charts and heatmaps
 
