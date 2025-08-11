@@ -1,6 +1,6 @@
 # 🚢 Task 02 - Titanic Dataset Analysis (EDA & Data Cleaning)
 
-This task is part of the *SkillCraft Technology Data Science Internship*.
+
 
 ---
 
